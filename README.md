@@ -1,4 +1,4 @@
-# OOP Assignment #2 — Inheritance in C++
+# OOP  — Inheritance in C++
 
 
 This repository contains five scenario-based C++ programs demonstrating the fundamental concepts of inheritance in Object-Oriented Programming (OOP).
